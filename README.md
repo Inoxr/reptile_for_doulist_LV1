@@ -1,0 +1,2 @@
+# reptile_for_doulist_LV1
+对于豆瓣list写的简单的爬虫，对其中的数据做点分析
